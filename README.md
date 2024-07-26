@@ -23,4 +23,3 @@ JavaScript: Used for the game logic, including detecting turns, checking for win
 
 Deployment Link: https://ananya272.github.io/Tic-Tac-Toe-Game/
 
-Deployment Link: https://ananya272.github.io/Tic-Tac-Toe-Game/
